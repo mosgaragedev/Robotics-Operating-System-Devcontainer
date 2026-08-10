@@ -1,7 +1,6 @@
 # ROS 2 Devcontainer Setup
 
-[![CI](https://github.com/mosgaragedev/
-Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml/badge.svg)](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml) [![CD](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml/badge.svg)](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml)
+[![CI](https://github.com/mosgaragedev/Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml/badge.svg)](https://github.com/mosgaragedev/Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml) [![CD](https://github.com/mosgaragedev/Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml/badge.svg)](https://github.com/mosgaragedev/Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml)
 
 This repository provides a ready-to-use **ROS development environment** using Visual Studio Code's devcontainer feature. It allows you to quickly set up a Docker-based containerized workspace for ROS 2 development without manually configuring dependencies.
 
