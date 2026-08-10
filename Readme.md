@@ -1,8 +1,9 @@
 # ROS 2 Devcontainer Setup
 
-[![CI](https://github.com/Robotics-Content-Lab/ros2_devcontainer/actions/workflows/ci.yaml/badge.svg)](https://github.com/Robotics-Content-Lab/ros2_devcontainer/actions/workflows/ci.yaml) [![CD](https://github.com/Robotics-Content-Lab/ros2_devcontainer/actions/workflows/release.yaml/badge.svg)](https://github.com/Robotics-Content-Lab/ros2_devcontainer/actions/workflows/release.yaml)
+[![CI](https://github.com/mosgaragedev/
+Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml/badge.svg)](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/ci.yaml) [![CD](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml/badge.svg)](https://github.com/mosgaragedev/ Robotics-Operating-System-Devcontainer/actions/workflows/release.yaml)
 
-This repository provides a ready-to-use **ROS 2 development environment** using Visual Studio Code's devcontainer feature. It allows you to quickly set up a Docker-based containerized workspace for ROS 2 development without manually configuring dependencies.
+This repository provides a ready-to-use **ROS development environment** using Visual Studio Code's devcontainer feature. It allows you to quickly set up a Docker-based containerized workspace for ROS 2 development without manually configuring dependencies.
 
 ## 📋 Prerequisites
 
@@ -22,7 +23,7 @@ You can either create a new repository from this template via the GitHub CLI or 
 
 - **Using CLI**:
     ```sh
-    gh repo create ros2_ws --template Robotics-Content-Lab/ros2_devcontainer --private --clone
+    gh repo create ros2_ws --template mosgaragedev/ Robotics-Operating-System-Devcontainer --private --clone
     ```
 
 - **Using GitHub Web UI**:
